@@ -1,0 +1,5 @@
+{
+    "name" : "spam",
+    "menu" : ["spam","spameggs","spameggscheese",'spameggcheesebacon'],
+    "payments" : "creditcardsonly"
+}
